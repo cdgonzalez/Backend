@@ -1,0 +1,14 @@
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\bin\Debug\net10.0\BackendPrinciples.exe
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\bin\Debug\net10.0\BackendPrinciples.deps.json
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\bin\Debug\net10.0\BackendPrinciples.runtimeconfig.json
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\bin\Debug\net10.0\BackendPrinciples.dll
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\bin\Debug\net10.0\BackendPrinciples.pdb
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\obj\Debug\net10.0\BackendPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\obj\Debug\net10.0\BackendPrinciples.AssemblyInfoInputs.cache
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\obj\Debug\net10.0\BackendPrinciples.AssemblyInfo.cs
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\obj\Debug\net10.0\BackendPrinciples.csproj.CoreCompileInputs.cache
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\obj\Debug\net10.0\BackendPrinciples.dll
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\obj\Debug\net10.0\refint\BackendPrinciples.dll
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\obj\Debug\net10.0\BackendPrinciples.pdb
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\obj\Debug\net10.0\BackendPrinciples.genruntimeconfig.cache
+c:\Users\Prueba\Documents\Dev\Backend\BackendPrinciples\obj\Debug\net10.0\ref\BackendPrinciples.dll
